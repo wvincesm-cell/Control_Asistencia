@@ -15,3 +15,13 @@ Perfectivo
 
 ## Reflexión
 GitHub permite versionar eficientemente...
+
+## Autor
+Andrés Vinces M.
+
+## Curso
+B3
+
+## Fecha
+17/11/2025
+
